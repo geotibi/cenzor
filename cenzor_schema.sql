@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.41, for Win64 (x86_64)
 --
--- Host: geotibi.synology.me    Database: cenzor
+-- Host: localhost    Database: cenzor
 -- ------------------------------------------------------
 -- Server version	5.5.5-10.11.6-MariaDB
 
